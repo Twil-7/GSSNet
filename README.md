@@ -1,2 +1,2 @@
 # GSSNet
-Global Context Volume Construction and Semantics-guided Disparity Reffnement for Stereo Matching
+Global Context Volume Construction and Semantics-guided Disparity Refinement for Stereo Matching
